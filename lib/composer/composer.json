@@ -1,0 +1,17 @@
+{
+    "name": "fla/calendar",
+    "description": "Calendario Agenda de eventos com PHP",
+    "authors": [
+        {
+            "name": "Flavio",
+            "email": "fla-henrique@hotmail.com"
+        }
+    ],
+    "require": {},
+    "autoload":{
+        "psr-4":{
+            "Classes\\": "../../class",
+            "Models\\": "../../model"
+        }
+    }
+}
